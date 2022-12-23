@@ -1,3 +1,3 @@
 # Landingpage
-## A responsive mimi landing page built with only html and tailwind.
-##Live link: https://tailwind-page-demo.netlify.app/
+## A responsive mini landing page withtailwind css.
+## Live link: https://tailwind-page-demo.netlify.app/
